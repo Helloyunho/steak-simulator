@@ -1,7 +1,7 @@
 # Steak Simulator
 
 Chill and watch steak cooking on the grill.
-Filp the steak when the time has come.
+Filp the steak when the time comes.
 
 ## Asset Sources
 
